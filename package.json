@@ -1,5 +1,6 @@
 {
   "name": "7-social-media",
+  "homepage": "https://akagrajain09.github.io/Social_Media_App/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -26,3 +27,4 @@
     "vite": "^4.4.5"
   }
 }
+
